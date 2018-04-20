@@ -1,6 +1,19 @@
-# FileUploadEx
-SpringFramework FileUpload Example
+FileUploadEx
+===================
 
-Only FileUload Sample and made SpringFramework and using Maven Build
-thtmsms wjswkwjdqndptj rkwudha
+This Project is only file upload Sample and made Springframework project.
 
+----------
+
+
+Import eclipse
+-------------
+> - Import > Project from Git > Clone URL > ... > import as general project **check**
+> - Configure > Convert to Maven Project
+> - Update project & project clean
+> - Start Server 
+
+
+File Upload Path
+-------------
+c:/fileupload
